@@ -1,8 +1,8 @@
 
-# kkctfのルール
+# CTFのルール
 問題番号横の▶をクリックすると問題が表示されます．<br>
 Flagの形式はkkctf{}です<br>
-Q6ではpico{}でFlagが見つかりますが、picoの部分をkkctfに直してkkctf{}で回答をおねがいします<br>
+Q6ではpico{}でFlagが見つかりますが、picoの部分をkkctfに直してkkctf{}で回答をお願いします<br>
 答えのFlagが分かったらslackの中島・冨山宛DMで回答してね<br>
 
 ---
@@ -97,7 +97,7 @@ Vmtkb2NHTjVRbmhrVjFaNlpFZHNkbUpwUWpGak1sWjZTVVZLYUdNeVZUSk9RelJuVW0xNGFGcDVRbkJq
 
 ---
 <details>
-<summary>Q10.[guess] play cards </summary>
+<summary>Q10.[guess] Incident </summary>
 以下の文章を読んで犯人を見つけ出そう！Flagは犯人の名前になっています！<br><br>
 
 ──monologue<br>エメット・B・フォックス医師の第一発見
@@ -120,10 +120,10 @@ PCに被害者の手の形が紅く残っている。開いているのは電子
 1. パトリシア・アトリー(29)<br>
 アメリカ人看護師、被害者とは友人？
 
-2. レナード・カーク(52)<br>
+1. レナード・カーク(52)<br>
 メキシコ人見舞い人、息子・フィリップ・カーク(31)が腰椎椎間板ヘルニア
 
-3. フィオナ・サドラー(24)<br>
+1. フィオナ・サドラー(24)<br>
 イギリス人見舞い人、妹ミネルヴァ・サドラー(24)は右腕の複雑骨折
 
 
