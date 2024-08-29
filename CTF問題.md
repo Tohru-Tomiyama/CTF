@@ -48,7 +48,7 @@ Vmtkb2NHTjVRbmhrVjFaNlpFZHNkbUpwUWpGak1sWjZTVVZLYUdNeVZUSk9RelJuVW0xNGFGcDVRbkJq
 <summary>Q5.[crypto] Text File  </summary>
 奇妙なテキストファイルからすべての情報を抽出してフラグを探してください！<br><br>
 
-[flag2of2-final.pdf](https://github.com/Tohru-Tomiyama/CTF/blob/master/CTF%E5%95%8F%E9%A1%8C%E8%B3%87%E6%96%99/kkctfFlag.txt)<br><br>
+[kkctfFlag.txt](https://github.com/Tohru-Tomiyama/CTF/blob/master/CTF%E5%95%8F%E9%A1%8C%E8%B3%87%E6%96%99/kkctfFlag.txt)<br><br>
 
 </details>
 <br>
